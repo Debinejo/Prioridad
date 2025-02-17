@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.title1 {
+    font-family: Open Sans; font-weight: 600; font-size: 35px 
+}
+.red1 {
+    background-color: #ff2222; font-family: Open Sans; font-weight: 500; border-radius: 5px; font-size: 18px; width: fit-content;
+}
+.red2 {
+    background-color: #ff5d5d; font-family: Open Sans; font-weight: 500; border-radius: 5px; font-size: 18px; width: fit-content;
+}
+.red3 {
+    background-color: #ffa9a9; font-family: Open Sans; font-weight: 500; border-radius: 5px; font-size: 18px; width: fit-content;
+}
+.red4 {
+    background-color: #ffd9d9; font-family: Open Sans; font-weight: 500; border-radius: 5px; font-size: 18px; width: fit-content;
+}
+.green1 {
+    background-color: #a0ff60; font-family: Open Sans; font-weight: 500; border-radius: 5px; width: 90px; height: 35px; font-size: large;
+}
+.contenedor1 {
+    width: 100%; display: flex;  flex-direction: column; align-items: center; justify-content: center;
+}
+.cuadroTexto {
+    width: 400px; height: 50px; font-family: Open Sans; font-weight: 500; border: none; text-align: center; font-size: 18px;
+}
+.contenedor2 {
+    display: flex; flex-direction: column; align-items: center;
+}
